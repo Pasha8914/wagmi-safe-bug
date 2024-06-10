@@ -1,0 +1,16 @@
+{
+  "name": " xc c xc xc ",
+  "short_name": "xcvsdfsdf",
+  "description": "asdasdasd",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b152d",
+  "theme_color": "#0b152d",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
