@@ -1,0 +1,32 @@
+{
+  "_index-406a3d36.js": {
+    "file": "assets/index-406a3d36.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true
+  },
+  "_index-b17f30eb.js": {
+    "file": "assets/index-b17f30eb.js",
+    "imports": [
+      "index.html"
+    ],
+    "isDynamicEntry": true
+  },
+  "index.css": {
+    "file": "assets/index-5fad86e8.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-5fad86e8.css"
+    ],
+    "dynamicImports": [
+      "_index-b17f30eb.js",
+      "_index-406a3d36.js"
+    ],
+    "file": "assets/index-133387f7.js",
+    "isEntry": true,
+    "src": "index.html"
+  }
+}
